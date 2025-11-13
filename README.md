@@ -1,4 +1,4 @@
-# Terminal Snake Game
+<img width="1903" height="928" alt="image" src="https://github.com/user-attachments/assets/143728f3-394b-4b70-ab32-e4b346253483" /># Terminal Snake Game
 
 Welcome to the Terminal Snake Game! This is simple but with a lot of configuration opportunities for controlling game.
 
@@ -24,6 +24,7 @@ To get a local copy up and running follow these simple example steps.
 
 You need to have the following things installed on your pc.
 
+- Install `gcc`.
 - Install `git`.
 
 ## Installation
