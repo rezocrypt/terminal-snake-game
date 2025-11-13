@@ -3,6 +3,10 @@
 Welcome to the Terminal Snake Game! This is simple but with a lot of configuration opportunities for controlling game.
 
 
+<img width="1710" height="776" alt="image" src="https://github.com/user-attachments/assets/ce3cff1c-02d5-4189-8f2e-85e2baf33a5f" />
+
+
+
 **Created:** 2022
 
 
